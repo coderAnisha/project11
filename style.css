@@ -1,0 +1,14 @@
+body{
+    background-image: url('pink.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 40px;
+    padding: 10px;
+}
+.faqq img {
+    width: auto;
+    height: 400px;
+    
+
+}
